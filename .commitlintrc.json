@@ -9,10 +9,5 @@
 	"defaultIgnores": true,
 	"parserOpts": {
 		"headerCorrespondence": ["type", "scope", "subject", "ticket"]
-	},
-	"parserPreset": {
-		"parserOpts": {
-			"issuePrefixes": [" see PW-"]
-		}
 	}
 }
